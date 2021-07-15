@@ -1,5 +1,6 @@
 
 # FS-Net
+# The code will be uploaded in the future...
 Multimodal Glioma Image Segmentation Using Dual Encoder Structure and Channel Spatial Attention Block\
 Article: https://www.frontiersin.org/articles/10.3389/fnins.2020.586197/full
 
