@@ -9,3 +9,4 @@ You can train FS-Net by adding the model to https://github.com/CN-zdy/MSU_Net/bl
 
 Remember to modify the code for loss functions in the https://github.com/CN-zdy/MSU_Net/blob/main/solver.py
 
+I didn't upload all the code because I am lazy. The implementation is similar to MSU-Net.
